@@ -10,7 +10,7 @@ Steps:
 2. Save the codefile if needed otherwise just go directly to step 3.
 3. Open kahoot.it and execute the code in your console/cmd.
 4. Then KaClapty should pop up on your kahoot.it tab.
-5. Now all you have to do is to find the "quizid" located on the hosts screen similar to this: "play.kahoot.it/v2/lobby?quizId=739c6780-b383..."
+5. After that find the "quizid" located on the hosts screen similar to this: "play.kahoot.it/v2/lobby?quizId=739c6780-b383..."
 6. Now all you have todo is to paste/write the quizid into the quiz id section. Then you just connect to the kahoot as normal! Enjoy!
 
 
