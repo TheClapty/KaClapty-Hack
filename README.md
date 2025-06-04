@@ -1,4 +1,4 @@
-# KaClapty-
+# KaClapty!-Hack
 
 This Kahoot hack is under development and bugs may appear. This hack is unblockable for your school and kahoot as it is no url linking it to the internet!
 
